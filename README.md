@@ -1,0 +1,2 @@
+# Youtube_audio_clipper
+Youtubeの動画から音声を抽出してファイルを出力するスクリプト
