@@ -1,0 +1,5 @@
+GPU環境なら、以下のコマンドを試してみるとうまくいく場合がある
+* pip install spleeter-gpu
+* spleeter separate -i "wavファイル" -o ./ -p spleeter:2stems
+
+おそらくcudaの読み込みに失敗している？
